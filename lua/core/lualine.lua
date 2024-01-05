@@ -64,7 +64,7 @@ lualine.setup {
         hide_filename_extension = false,   -- Hide filename extension when set to true.
         show_modified_status = true, -- Shows indicator when the buffer is modified.
 
-        mode = 0, -- 0: Shows buffer name
+        mode = 2, -- 0: Shows buffer name
                   -- 1: Shows buffer index
                   -- 2: Shows buffer name + buffer index
                   -- 3: Shows buffer number
